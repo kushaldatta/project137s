@@ -1,0 +1,27 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 22px;
+    width: 100%;
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.note {
+    width: 100%;
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.start, .status, .verify {
+    color: white;
+}
+
+canvas {
+    border: 6px dashed grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px purple;
+}
